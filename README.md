@@ -1,0 +1,1 @@
+This project is a real-time American Sign Language (ASL) recognition system that identifies static ASL hand signs (A-Z) without requiring a pre-trained dataset. It uses MediaPipe Hands for hand landmark detection and a set of rule-based heuristics to classify gestures into corresponding ASL letters.
